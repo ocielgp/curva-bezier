@@ -1,5 +1,4 @@
 # Curva de Bezier
-***
 Un pequeño programa hecho en Java usando Swing donde se dibujan n puntos y se traza la Curva de Bazier entre ellos.
 ## Capturas
 1. *Pantalla inicial de la aplicación*
